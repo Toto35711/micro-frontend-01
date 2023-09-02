@@ -1,1 +1,1 @@
-document.getElementById('dev-cart').innerHTML = `<dev>CART</dev>`
+import("./bootstrap.js")

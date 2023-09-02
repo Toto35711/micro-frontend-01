@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 1 Basic Micro-Frontend.md",
+                "file": "Section 1 The Basics of Micro-Frontend.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6ee92934ae5815e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 2 The Basics of Module Federation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b1eaefa61ccef78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 3 Sharing Dependencies Betweens Apps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section 1 Basic Micro-Frontend.md",
+                "file": "Section 3 Sharing Dependencies Betweens Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section 1 Basic Micro-Frontend.md",
+                "file": "Section 3 Sharing Dependencies Betweens Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section 1 Basic Micro-Frontend.md"
+                "file": "Section 3 Sharing Dependencies Betweens Apps.md"
               }
             }
           }
@@ -146,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99e054512b124dc2",
+  "active": "7b1eaefa61ccef78",
   "lastOpenFiles": [
-    "Section 1 Basic Micro-Frontend.md"
+    "Section 2 The Basics of Module Federation.md",
+    "Section 1 The Basics of Micro-Frontend.md",
+    "Section 3 Sharing Dependencies Betweens Apps.md"
   ]
 }
